@@ -10,7 +10,9 @@ This repository contains my daily solutions to LeetCode problems, where I solve 
 - 📖 **Includes explanations, complexity analysis, and alternative approaches**.
 
 ## 📂 Repository Structure
-Leetcode_Daily ┣ 📂 src ┃ ┣ 📂 Divide_Nodes_Into_the_Maximum_Number_of_Groups_2493  ┃ ┣ 📜 Main.java  ┃ ┣ 📜 Question  ┃ ┣ 📜 Solution.java
+Leetcode_Daily ┣ 📂 src ┃ ┣ 📂 ...  ┃ ┣ 📜 Main.java  ┃ ┣ 📜 Question  ┃ ┣ 📜 Solution.java
+
+**Note**: Solutions are stored under different packages under src. Search by Leetcode Question Name and Number
 
 ## 📌 Topics Covered
 This repository will include solutions across various topics:
