@@ -5,7 +5,7 @@ Welcome to **Daily LeetCode Solutions!** 🎯
 This repository contains my daily solutions to LeetCode problems, where I solve and share one problem every day. Each solution includes well-structured code, explanations, and time complexity analysis.
 
 ## 📌 About
-- 📆 **One new LeetCode solution every day**.
+- 📆 **New LeetCode solutions every day**.
 - 🖥 **Written in Java** (for now).
 - 📖 **Includes explanations, complexity analysis, and alternative approaches**.
 
