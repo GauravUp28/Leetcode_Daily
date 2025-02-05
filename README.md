@@ -1,4 +1,4 @@
-# 🚀 Daily LeetCode Solutions
+# 🖥️ Daily LeetCode Solutions
 
 Welcome to **Daily LeetCode Solutions!** 🎯  
 
@@ -38,4 +38,4 @@ Want to contribute? You can:
 - LeetCode: https://leetcode.com/u/GauravUp28/
 - GitHub: https://github.com/GauravUp28
 
-🚀 Happy Coding! Keep solving problems daily!
+🖥️✈️ Happy Coding! Keep solving problems daily!
